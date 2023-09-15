@@ -14,13 +14,6 @@ Hi, I'm Michael Henein🙌, a computer science student, and an aspiring software
 - 💬 Ask me about anything.
 - 📫 How to reach me: my mail is Michaelaeah@gmail.com.
 
-**Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
-- Coding Ninja
-
 **Languages and Tools:**
 
 
