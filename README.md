@@ -7,7 +7,7 @@
 Hi, I'm Michael Henein🙌, a computer science student, and an aspiring software engineer, who has passion for the field. I love Problem Solving and competitive programming.
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 🔭 I’m currently a computer science sturdent in the American university in Cairo.
 - 🌱 I’m currently learning Assembly language, Digital design and more...
